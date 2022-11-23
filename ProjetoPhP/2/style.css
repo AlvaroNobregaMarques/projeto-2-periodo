@@ -1,0 +1,63 @@
+body {
+    font-family: "Arial", monospace;
+    min-height: 400px;
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/510/746/411/paper-coins-economy-wallpaper-thumb.jpg");
+    background-color: white;
+    background-size: cover;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color: white;
+    margin: 0 0 5px;
+    background-color: #daa520;
+    padding: 07px;
+    font-weight: bold;
+    border-radius: 10px;
+  }
+  
+  .page-subtitle {
+    color: white;
+    margin-top: 5px;
+  }
+  
+  input {
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: white;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  button {
+    margin-top: 10px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: white;
+    box-shadow: 6px 6px 6px;
+  }
+  
+  h2 {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: white;
+    box-shadow: 6px 6px 6px;
+    border-radius: 10px;
+    margin-top: 65px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 20px 0px;
+  }
+ 
